@@ -1,2 +1,2 @@
 # OFG
-One File Games (OFG). Games that fit only in one file!
+One File Games (OFG). The games that fit only in one file!
